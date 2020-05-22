@@ -1,0 +1,2 @@
+// Liste doublement chaînée -> on doit afficher la chaîne de caractères de la fin vers le début (inverse) : 
+							// on aura besoin du pointeur "precedent" dans la définition du TDA
